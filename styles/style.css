@@ -35,13 +35,14 @@ body {
 }
 
 .hourHand {
-  width: 50%;
-  height: 10px;
+  width: 40%;
+  height: 7px;
   background: black;
   position: absolute;
   top: 50%;
   transform-origin: 100%;
   transform: rotate(90deg);
+  left: 30px;
   transition: all 0.05s;
   transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
   border-radius: 50%;

@@ -1,2 +1,2 @@
 # Analog-Clock
-A simple analog clock made using CSS and JS.
+An analog clock web app made using CSS and JS.
